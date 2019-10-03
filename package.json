@@ -1,0 +1,34 @@
+{
+  "name": "blabl",
+  "version": "0.0.1",
+  "description": "Participate in the BLABL proximity-based augmented reality social network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadonk/blabl.git"
+  },
+  "keywords": [
+    "bluetooth",
+    "socialnetwork",
+    "augmentedreality",
+    "ar",
+    "ai",
+    "twitter",
+    "facebook",
+    "snapchat",
+    "instagram"
+  ],
+  "author": "Jason Kridner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadonk/blabl/issues"
+  },
+  "homepage": "https://blabl.us",
+  "devDependencies": {
+    "electron": "^6.0.11"
+  }
+}
