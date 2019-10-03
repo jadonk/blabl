@@ -1,4 +1,7 @@
 const e = require('electron');
+var noble = require('noble');
+
+const BLABL_UUID = "9356d33e-135e-4b9d-a5e6-01705d1c36d6";
 
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
