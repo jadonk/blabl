@@ -36,7 +36,7 @@ There will be no standard, per se, around how a BLABL Familiar should be
 visualized, but some hints can enable quality animated mechanics along with the
 possibility of BLABL Familiar designs blending with other BLABL Familiar
 designs in random or structured ways to take seemingly desirable traits forward
-between multiple BLABL Familiars. Think [Spore](https://en.wikipedia.org/wiki/Spore_(2008_video_game).
+between multiple BLABL Familiars. Think [Spore](https://en.wikipedia.org/wiki/Spore_\(2008_video_game\)).
 
 # Installation
 
