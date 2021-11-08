@@ -29,7 +29,7 @@
   },
   "homepage": "https://blabl.us",
   "devDependencies": {
-    "electron": "^9.1.0"
+    "electron": "^11.5.0"
   },
   "dependencies": {
     "noble": "^1.9.1"
